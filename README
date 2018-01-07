@@ -19,6 +19,9 @@ If you have any questions or comments about ZS3, please contact me,
 Zach Beane, at xach@xach.com. You can also discuss ZS3 on the ZS3
 mailing list at http://groups.google.com/group/zs3-devel .
 
-
+;;;;;;;;;;;;;;;;;;;;;;;
+;; Added by WildBench;;
+;;;;;;;;;;;;;;;;;;;;;;;
+In personal use, some interesting issues happened in cn-north-1 region. So I have to fork it here to add a little bit code.
 
   
